@@ -4,3 +4,4 @@ Creating a new branch is quick $ simple.
 Git has a mutable index called stage.
 Git tracks changes of files.
 Add content in dev2.
+Add more content in dev2
